@@ -1,2 +1,7 @@
 Data_Erda/*
 Data/*
+EdgeDevice/*
+*__pycache__/*
+Old/*
+*cpython*
+predictions*.csv
